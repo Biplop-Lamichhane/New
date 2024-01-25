@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(53, 53, 53);
+}
+.main{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+}
+.motivation1{
+    height: 400px;
+    width: auto;
+    border: 5px rgb(169, 138, 138) solid;
+    aspect-ratio: "16:9";
+}
+
+h1{
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    color: rgb(228, 207, 207);
+    text-align: center;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+    text-align: center;
+}
